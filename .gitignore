@@ -1,4 +1,6 @@
 node_modules/
 .sessions/
 output/
+reports/
 .env
+.claude/
